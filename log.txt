@@ -1,2 +1,3 @@
 SERVER HEALTH LOGS:
 --------------------------
+Servers are up and running fine
